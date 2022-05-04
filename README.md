@@ -37,7 +37,7 @@ GET https://foods-tasks.herokuapp.com/foods
 GET https://foods-tasks.herokuapp.com/tasks
 ```
 
-### Para postar nos endpoints, foods e tasks precisa de autenticação
+### Para postar nos endpoints, foods e tasks precisam de autenticação
 ```json
 
 Exemplo post foods
